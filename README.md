@@ -5,6 +5,7 @@
 `fqcheck` can be used to filter the Pore-C reads which are easily get error of reads length larger 100k or with different length of seq and qual.  
 
 ## Installation
+The easiest way to install allhic is to download the latest binary from the [releases](https://github.com/wangyibin/fqcheck/releases)  
 
 Build from source with:
 ```bash

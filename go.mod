@@ -1,4 +1,4 @@
-module github.com/wangyibin/go
+module github.com/wangyibin/fqcheck
 
 go 1.17
 
